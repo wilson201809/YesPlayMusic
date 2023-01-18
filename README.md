@@ -83,7 +83,7 @@ Electron 版本由 [@hawtim](https://github.com/hawtim) 和 [@qier222](https://g
 
 6. 点击 PERSONAL ACCOUNT 旁边的 Select。
 
-7. 点击 Environment Variables，填写 Name 为 `VUE_APP_NETEASE_API_URL`，Value 为 `/api`，点击 Add。最后点击底部的 Deploy 就可以部署到
+7. 点击 Environment Variables，填写 Name 为 `VUE_APP_NETEASE_API_URL`，Value 为NeteaseCloudMusic的API，点击 Add。最后点击底部的 Deploy 就可以部署到
    Vercel 了。
 
 ## ⚙️ 部署到自己的服务器
